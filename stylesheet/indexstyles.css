@@ -1,0 +1,66 @@
+html{
+    box-sizing: border-box;
+    display:block;
+}
+
+body{
+    background-color: brown;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    
+}
+
+h3{
+    text-align: center;
+    margin-top: -20px;
+
+
+}
+
+p{
+    text-align: center;
+}
+
+.heading{
+    background-color: grey;
+    padding: 15px 0;
+    
+
+
+}
+
+
+
+img{
+    float:left;
+    margin: 35px 10px;    
+    width: 393px;
+    height: 310px;
+
+}   
+
+.odin-symbol{
+    margin: 10px 420px;;
+    text-align: center;
+    width:40%;
+    
+  
+}
+
+h4{
+    font-family: Cursive;
+    font-size: 20px;
+    margin-top: 20px;
+    
+}
+
+a:hover img{
+    filter: blur(3px);
+
+}
+
+
