@@ -18,6 +18,7 @@ h3{
     margin: 5px 250px;
     width: 850px;
     height:480px;
+    object-fit: scale-down;
 
 }
 
@@ -29,6 +30,7 @@ p, li{
 
 img{
     margin-bottom: 4em; 
+    object-fit: scale-down;
 }
 
 .heading{
